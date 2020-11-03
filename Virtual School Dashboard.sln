@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual School Dashboard", "Virtual School Dashboard.csproj", "{A57A5A13-5DB3-4066-9299-4848D7846238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57A5A13-5DB3-4066-9299-4848D7846238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57A5A13-5DB3-4066-9299-4848D7846238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57A5A13-5DB3-4066-9299-4848D7846238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57A5A13-5DB3-4066-9299-4848D7846238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0DB674-CEC6-44EE-B144-AB7B441A04C8}
+	EndGlobalSection
+EndGlobal
